@@ -4,7 +4,7 @@
 The story is set on the Continent of Trench, a wild green continent. We focus more on a few locations: 
 - Dema, a circular cement city situated in the South of the continent
 - Voldsoy, a wild part of the continent, inhabited by Neds
-  ![this is a Ned, he's cute](https://static.wikia.nocookie.net/twenty-one-pilots/images/0/0b/Ned.jpg/revision/latest?cb=20200614014742)
+  ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](https://static.wikia.nocookie.net/twenty-one-pilots/images/0/0b/Ned.jpg/revision/latest?cb=20200614014742)
 - the Pladin strait, a body of water separating Dema from Voldsoy
 
 ### The storyline we follow
@@ -17,7 +17,7 @@ But what are the rules???
 In Dema, everyone follows the same religion: vialism. Simply put, this religion teaches that suicide is the only way to paradise, self destruction is viewed as admirable within the walls of the city. 
 
 # The link between the band and the lore: 
-
+This story was created by Tyler Joseph, lead singer of the 2 piece band Twenty Øne Pilots. Throughout the 5 main album of the band, we have information about Clancy, Dema and Trench
 # Vialism or weilism??
 It has been recently confirmed (april 2024) that the idea of vialism has been highly inspired by Simone Weil and the idea of Weilism, in whch the idea of "overtaking your former self" is essential
 
