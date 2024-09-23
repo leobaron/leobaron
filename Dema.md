@@ -1,4 +1,4 @@
-#What's Dema ?
+# What's Dema ?
 ## An introduction to the lore
 ### The world we live in
 The story is set on the Continent of Trench, a wild green continent. We focus more on a few locations: 
@@ -18,4 +18,7 @@ In Dema, everyone follows the same religion: vialism. Simply put, this religion 
 # The link between the band and the lore: 
 
 # Vialism or weilism??
-##  
+It has been recently confirmed (april 2024) that the idea of vialism has been highly inspired by Simone Weil and the idea of Weilism, in whch the idea of "overtaking your former self" is essential
+
+#  IDK ANOTHER PART ABOUT LIVE SHOWS MAYBE
+The clancy letters in recent shows and lesbianism in Dema. 
