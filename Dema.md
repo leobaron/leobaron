@@ -22,3 +22,6 @@ It has been recently confirmed (april 2024) that the idea of vialism has been hi
 
 #  IDK ANOTHER PART ABOUT LIVE SHOWS MAYBE
 The clancy letters in recent shows and lesbianism in Dema. 
+
+#How it started
+the lore hunt started on the website [DEMAORG] (http://dmaorg.info/found/15398642_14/clancy.html)
