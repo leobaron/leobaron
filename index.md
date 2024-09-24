@@ -1,5 +1,2 @@
-this is a test from  vthe index file
+This page will be giving information about the band twenty one pilots and the lore they ccreated to tell the story of the main character Clancy
 
-![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](https://static.wikia.nocookie.net/twenty-one-pilots/images/0/0b/Ned.jpg/revision/latest?cb=20200614014742)
-- the Pladin strait, a body of water separating Dema from Voldsoy
-![this is ned](Twentyonepilots/image/Ned.jpg)
