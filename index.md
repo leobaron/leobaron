@@ -3,7 +3,7 @@ This page will be giving information about the band twenty one pilots and the lo
 # The storyline we follow
 Throughout the different albums from the band, we follow the story of Clancy, an inhabitant of Dema who constantly tries to escape the city but gets consistently brought back by his bishop *Nico*
 
-#[Dema, what is it?](twentyonepilots/dema.md)
+# [Dema, what is it?](twentyonepilots/dema.md)
 
 # The link between the band and the lore:  [about the band](Twentyonepilots/theband.md)
 
