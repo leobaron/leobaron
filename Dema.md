@@ -16,7 +16,7 @@ Every inhabitant in Dema is assigned to a bishop who will watch their every move
 But what are the rules???
 In Dema, everyone follows the same religion: vialism. Simply put, this religion teaches that suicide is the only way to paradise, self destruction is viewed as admirable within the walls of the city. 
 
-# The link between the band and the lore: 
+# The link between the band and the lore:  [about the band](Twentyonepilots/theband)
 This story was created by Tyler Joseph, lead singer of the 2 piece band Twenty Øne Pilots. Throughout the 5 main album of the band, we have information about Clancy, Dema and Trench
 # Vialism or weilism??
 It has been recently confirmed (april 2024) that the idea of vialism has been highly inspired by Simone Weil and the idea of Weilism, in whch the idea of "overtaking your former self" is essential
