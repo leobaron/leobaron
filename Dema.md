@@ -4,7 +4,7 @@
 The story is set on the Continent of Trench, a wild green continent. We focus more on a few locations: 
 - Dema, a circular cement city situated in the South of the continent
 - Voldsoy, a wild part of the continent, inhabited by Neds
-  ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](Twentyonepilots/image/Ned.jpg) 
+  ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](Twentyonepilots/Ned.jpg) 
 - the Pladin strait, a body of water separating Dema from Voldsoy
 
 
