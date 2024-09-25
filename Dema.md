@@ -29,6 +29,3 @@ Outside of the main story set in Dema, we have additional information about the 
   `This is a picture of a small furry creature with antlers`
 - the Pladin strait, a body of water separating Dema from Voldsoy  
 ~~I am a citizen, I am an escapee, I am an exception to the rule, I am Clancy~~
-  
-
-<code> this is a test of code highlighting idk what it's used for tho </code>
