@@ -24,10 +24,11 @@ Clancy gained a reputation in Dema following his numerous escape attempts and  w
 
 
 
-Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. We focus more on a few locations: 
+Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. Throughout the albums, we focus more on a few locations: 
 - Dema
 - Voldsoy, a wild part of the continent, inhabited by Neds
+- the Pladin strait, a body of water separating Dema from Voldsoy    
+
 
   ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](Twentyonepilots/Ned.jpg)
   `This is a picture of a small furry creature with antlers`
-- the Pladin strait, a body of water separating Dema from Voldsoy  
