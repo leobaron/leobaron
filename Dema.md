@@ -14,6 +14,13 @@ In Dema, everyone follows the same religion: vialism. Simply put, this religion 
 Throughout the different albums from the band, we follow the story of Clancy, an inhabitant of Dema who constantly tries to escape the city but gets consistently brought back by his bishop *Nico*
 
 ### The world we live in
+
+
+
+![trench](Twentyonepilots/Trenchmap.jpg)
+
+
+
 Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. We focus more on a few locations: 
 - Dema
 - Voldsoy, a wild part of the continent, inhabited by Neds
