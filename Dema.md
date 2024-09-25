@@ -27,7 +27,7 @@ Clancy gained a reputation in Dema following his numerous escape attempts and  w
 
 
 
-##Additional information
+## Additional information
 Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. Throughout the albums, we focus more on a few locations: 
 - Dema
 - Voldsoy, a wild part of the continent, inhabited by Neds
