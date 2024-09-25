@@ -1,10 +1,10 @@
 # The World We Live In 
 
 ## How it started
-the lore hunt started on the website, [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html) where Tyler updated letters written by a man named Clancy relating his life in Dema and his numerous escape attemps
+the lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html) where Tyler updated letters written by a man named Clancy relating his life in Dema and his numerous escape attemps
 
 ## How does Dema work
-people in Dema are lead by bishops, 9 of them to be exact. Their names are __Andre, Lisden, Keons, Nico, Reisdro, Sacarver, Nills, Vetomo and Listo__.
+people in Dema are lead by bishops, 9 of them to be exact. Their names are __Andre, Lisden, Keons, Nico, Reisdro, Sacarver, Nills, Vetomo and Listo__. They're named after songs from the band, for example, SACARVER comes from the lyrics "She's a carver" (S A CARVER) in the song _Tear In My Heart_
 Every inhabitant in Dema is assigned to a bishop who will watch their every move and make sure they follow the rules.
 But what are the rules???
 In Dema, everyone follows the same religion: vialism. Simply put, this religion teaches that suicide is the only way to paradise, self destruction is viewed as admirable within the walls of the city. 
