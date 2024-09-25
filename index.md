@@ -13,5 +13,3 @@ Throughout the different albums from the band, we follow the story of Clancy, an
 
 ##How it started
 the lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html)
-
-<code> this is a test of code highlighting idk what it's used for tho <code>
