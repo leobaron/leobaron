@@ -1,7 +1,8 @@
 # The band: 
 Twenty One Pilots is a two piece band composed of Tyler Joseph, singer and pianist, and Josh Dun, drummer. 
 The name of the band comes from the play _All My Sons_ by Arthur Miller.
-Both members come from the town of Colombus,OH
+Both members come from the town of Colombus,OH.  
+Their fans are called Clikkies and are members of the Clique. 
 
 
 # Link between the songs and the lore
