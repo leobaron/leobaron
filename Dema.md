@@ -1,19 +1,17 @@
-# The World We Live In ?
-## An introduction to the lore
+# The World We Live In 
 
-# How it started
+## How it started
 the lore hunt started on the website, [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html) where Tyler updated letters written by a man named Clancy relating his life in Dema and his numerous escape attemps
 
-### How does Dema work
+## How does Dema work
 people in Dema are lead by bishops, 9 of them to be exact. Their names are __Andre, Lisden, Keons, Nico, Reisdro, Sacarver, Nills, Vetomo and Listo__.
 Every inhabitant in Dema is assigned to a bishop who will watch their every move and make sure they follow the rules.
 But what are the rules???
 In Dema, everyone follows the same religion: vialism. Simply put, this religion teaches that suicide is the only way to paradise, self destruction is viewed as admirable within the walls of the city. 
 
-### The storyline we follow
+## The storyline we follow
 Throughout the different albums from the band, we follow the story of Clancy, an inhabitant of Dema who constantly tries to escape the city but gets consistently brought back by his bishop *Nico*
 
-### The world we live in
 
 
 
