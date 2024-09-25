@@ -18,15 +18,4 @@ The clancy letters in recent shows and lesbianism in Dema.
 #How it started
 the lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html)
 
-~~I am an escapee, I am an exception to the rule, I am Clancy~~
-
-`Example of preformatted code`
-
-
-Right     | Left   | Center 
----------:| :----- |:-----:
-Computer  |  $1600 | one
-Phone     |    $12 | three
-Pipe      |     $1 | eleven
-
 <code> this is a test of code highlighting idk what it's used for tho <code>
