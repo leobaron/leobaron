@@ -1,4 +1,4 @@
-background-image: url(https://your-url);
+background-image: url(Twentyonepilots/clancy.jpg);
 background-size: 100%;
 background-repeat: no-repeat;
 background-attachment: fixed;
