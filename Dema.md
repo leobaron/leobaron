@@ -21,7 +21,7 @@ Clancy gained a reputation in Dema following his numerous escape attempts and  w
 
 
 
-~~I am a citizen, I am an escapee, I am an exception to the rule, I am Clancy~~
+~~I am a citizen, I am an escapee, I am an exception, I am Clancy~~
 
 ![trench](Twentyonepilots/Trenchmap.jpg)
 
