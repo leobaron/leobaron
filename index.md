@@ -9,7 +9,7 @@ Throughout the different albums from the band, we follow the story of Clancy, an
 
 
 # More information about the lore
-## Vialism or weilism??
+## [Vialism or weilism??](Twentyonepilots/Vialism.md)
 It has been recently confirmed (april 2024) that the idea of vialism has been highly inspired by Simone Weil and the idea of Weilism, in whch the idea of "overtaking your former self" is essential
 
 #  IDK ANOTHER PART ABOUT LIVE SHOWS MAYBE
