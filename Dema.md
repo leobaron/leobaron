@@ -1,9 +1,3 @@
-background-image: url(Twentyonepilots/clancy.jpg);
-background-size: 100%;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-position: center;
-
 # What's Dema ?
 ## An introduction to the lore
 ### The world we live in
@@ -34,15 +28,18 @@ The clancy letters in recent shows and lesbianism in Dema.
 #How it started
 the lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html)
 
-~~I am an escapee, I am an exception to the rule, I am Clancy~~
+~~I am a citizen, I am an escapee, I am an exception to the rule, I am Clancy~~
 
 `Example of preformatted code`
 
 
-Right     | Left   | Center 
+Name of The album    | total songs  | lore related songs 
 ---------:| :----- |:-----:
-Computer  |  $1600 | one
-Phone     |    $12 | three
-Pipe      |     $1 | eleven
+Regionals at Best  |  $1600 | one
+Blurryface   |    $12 | three
+Vessel      |     $1 | eleven
+Trench    |     $1 | eleven
+Scaled and Icy    |     $1 | eleven
+Clancy      |     $1 | eleven
 
 <code> this is a test of code highlighting idk what it's used for tho <code>
