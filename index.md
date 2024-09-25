@@ -1,9 +1,7 @@
-This page will be giving information about the band twenty one pilots and the lore they created to tell the story of the main character Clancy
-![the boys](Twentyonepilots/tyjo.jpg)
+![the boys](Twentyonepilots/tyjo.jpg)  
 
+This page will be giving information about the band twenty one pilots and the lore they created to tell their story.
 
-# The Storyline We Follow
-Throughout the different albums from the band, we follow the story of Clancy, an inhabitant of Dema who constantly tries to escape the city but gets consistently brought back by his bishop *Nico*
 
 # [The World We Live In](Dema.md)
 
