@@ -7,4 +7,4 @@ Here are a few subjects that can help new clikkies understand the lore:
 - [The World We Live In](Dema.md)
 - [about the band](Twentyonepilots/theband.md)
 - [Vialism or weilism??](Twentyonepilots/Vialism.md)
-- [How it started, how it's going](Twentyonepilots/moreabout)
+- [How it started, how it's going](Twentyonepilots/moreabout.md)
