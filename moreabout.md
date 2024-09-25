@@ -2,8 +2,9 @@
 The lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html) where Tyler Joseph, singer of the band, uploaded lettrs written by someone living in Dema and trying to escape the bishops. These letters are signed _Clancy_, which is the name attributed to the writer although we know it's an Alias (this is explained in the song _Air Catcher_ by the lyrics "Nobody knows his real name but now he jut uses one he stole on a grave"). 
 Additional information will be given by the band through subliminal pictures online, music videos, background pictures during live shows...
 
-In June of 2020, Tyler Jospeh started an ARG that had fans looking all around the internet in search of codes that would release clues about the "treasure" they were looking for. A code could be hidden anywhere (on a 2 year old tweet or as morse code in a picture from the merch store for example). Obviously Tyler hid 21 codes for us to find and once they were all put in a particular website, they unlocked a never ending youtube video of their song "Level of Concern" in which fans could appear by submitting any video they wanted to be played.
+In June of 2020, Tyler Jospeh started an ARG that had fans looking all around the internet in search of codes that would release clues about the "treasure" they were looking for. A code could be hidden anywhere (on a 2 year old tweet or as morse code in a picture from the merch store for example). Obviously Tyler hid 21 codes for us to find and once they were all put in a particular website, they unlocked a never ending youtube video of their song "Level of Concern" in which fans could appear by submitting any video they wanted to be played.  
 
+Here's an example of one of the LOC file that could be unlocked by one of the codes
 ![Here's an example of one of the LOC file that could be unlocked by one of the codes](Twentyonepilots/loc.jpg)
 
 
