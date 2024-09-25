@@ -4,7 +4,8 @@
 The story is set on the Continent of Trench, a wild green continent. We focus more on a few locations: 
 - Dema, a circular cement city situated in the South of the continent
 - Voldsoy, a wild part of the continent, inhabited by Neds
-  ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](Twentyonepilots/Ned.jpg) 
+  ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](Twentyonepilots/Ned.jpg)
+  `This is a picture of a small furry creature with antlers`
 - the Pladin strait, a body of water separating Dema from Voldsoy
 
 
@@ -29,8 +30,6 @@ The clancy letters in recent shows and lesbianism in Dema.
 the lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html)
 
 ~~I am a citizen, I am an escapee, I am an exception to the rule, I am Clancy~~
-
-`Example of preformatted code`
 
 
 Name of The album    | total songs  | lore related songs 
