@@ -1,5 +1,5 @@
 This page will be giving information about the band twenty one pilots and the lore they created to tell the story of the main character Clancy
-[the boys](Twentyonepilots/tyjo.jpg)
+![the boys](Twentyonepilots/tyjo.jpg)
 
 
 # The Storyline We Follow
