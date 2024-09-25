@@ -10,12 +10,8 @@ Throughout the different albums from the band, we follow the story of Clancy, an
 
 # More information about the lore
 ## [Vialism or weilism??](Twentyonepilots/Vialism.md)
-It has been recently confirmed (april 2024) that the idea of vialism has been highly inspired by Simone Weil and the idea of Weilism, in whch the idea of "overtaking your former self" is essential
 
-#  IDK ANOTHER PART ABOUT LIVE SHOWS MAYBE
-The clancy letters in recent shows and lesbianism in Dema. 
-
-#How it started
+##How it started
 the lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html)
 
 <code> this is a test of code highlighting idk what it's used for tho <code>
