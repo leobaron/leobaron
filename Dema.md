@@ -1,9 +1,6 @@
 # The World We Live In 
 
-## How it started
-the lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html) where Tyler updated letters written by a man named Clancy relating his life in Dema and his numerous escape attemps
-
-## How does Dema work
+## What's Dema?
 people in Dema are lead by bishops, 9 of them to be exact. Their names are __Andre, Lisden, Keons, Nico, Reisdro, Sacarver, Nills, Vetomo and Listo__. They're named after songs from the band, for example, SACARVER comes from the lyrics "She's a carver" (S A CARVER) in the song _Tear In My Heart_  
 
 
@@ -24,6 +21,7 @@ Clancy gained a reputation in Dema following his numerous escape attempts and  w
 
 
 
+##Additional information
 Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. Throughout the albums, we focus more on a few locations: 
 - Dema
 - Voldsoy, a wild part of the continent, inhabited by Neds
