@@ -1,3 +1,9 @@
+background-image: url(https://your-url);
+background-size: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+
 # What's Dema ?
 ## An introduction to the lore
 ### The world we live in
