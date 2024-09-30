@@ -17,8 +17,12 @@ Clancy   2024   |  13 | 3
 
 # Visuals
 Here are the different logos though the Twenty Øne Pilots eras:  
-![Blurryface](Twentyonepilots/blurrylogo.jpg) Blurryface  
-![Vessel](Twentyonepilots/vessellogo.jpg) Vessel  
-![Trench](Twentyonepilots/trenchlogo.jpg) Trench  
-![Scaled And Icy](Twentyonepilots/sailogo.jpg) Scaled And Icy  
-![Clancy](Twentyonepilots/clancylogo.jpg) Clancy  
+![Blurryface](Twentyonepilots/blurrylogo.jpg)Blurryface   
+![Vessel](Twentyonepilots/vessellogo.jpg) Vessel    
+
+![Trench](Twentyonepilots/trenchlogo.jpg)  Trench   
+![Scaled And Icy](Twentyonepilots/sailogo.jpg) Scaled And Icy    
+![Clancy](Twentyonepilots/clancylogo.jpg)    Clancy    
+
+[The World Explore](Dema.md)  
+[How it started, how it's going](moreabout.md)
