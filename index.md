@@ -1,6 +1,6 @@
 ![the boys](Twentyonepilots/tyjo.jpg)  
 
-This page will be giving information about the band twenty one pilots and the lore they created to tell their story.
+This page will be giving information about the band Twenty Øne Pilots and the lore they created to tell their story.
 
 --------------------------------------------------------------------------------
 Here are a few subjects that can help new clikkies understand the lore:
