@@ -1,7 +1,7 @@
 # The World We Explore 
 
 ## The Characters
-There are a few important names mentioned that you should know before reading this part:
+There are a few important names mentioned that you should know before reading this part:  
 _Tyler Joseph_, singer, songwriter and at the origin of the Dema story  
 _Josh Dun_, drummer of the band, soft boi  
 _Clancy_, main character of the Dema storyline, played by Tyler in the music videos  
