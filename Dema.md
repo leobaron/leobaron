@@ -1,4 +1,12 @@
-# The World We Live In 
+# The World We Explore 
+
+Disclaimer: There are a few important names mentioned that you should know before reading this part:
+Tyler Joseph, singer, songwriter and at the origin of the Dema story
+Josh Dun, drummer of the band, soft boi
+Clancy, main character of the Dema storyline, played by Tyler in the music videos
+Torchbearer, symbol of hope, member of the Banditos, played by Josh in the music videos
+Nico/Blurryface, one of the bishops of Dema, in charge of Clancy, his insecurity is success.
+
 
 ## What's Dema?
 people in Dema are lead by bishops, 9 of them to be exact. Their names are __Andre, Lisden, Keons, Nico, Reisdro, Sacarver, Nills, Vetomo and Listo__. They're named after songs from the band, for example, SACARVER comes from the lyrics "She's a carver" (S A CARVER) in the song _Tear In My Heart_  
@@ -30,8 +38,8 @@ Clancy gained a reputation in Dema following his numerous escape attempts and  w
 ## Additional information
 Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. Throughout the albums, we focus more on a few locations: 
 - Dema
-- Voldsoy, a wild part of the continent, inhabited by Neds
-- the Pladin strait, a body of water separating Dema from Voldsoy    
+- Voldsoy, an island East of Dema inhabited by Neds. Ned is the representation of Tyler's Creativity and his Hope. His antlers are the only thing that makes seizing possible.
+- the Pladin strait, a body of water separating Dema from Voldsoy. As much as it provides protection for Clancy since the bishops do not cross the strait, it also separates him from the Banditos and makes it harder to fight Dema.
 
 
   ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](Twentyonepilots/Ned.jpg)   
