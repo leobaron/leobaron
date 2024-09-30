@@ -4,7 +4,7 @@ This page will be giving information about the band Twenty Øne Pilots and the l
 
 --------------------------------------------------------------------------------
 Here are a few subjects that can help new clikkies understand the lore:
-- [The World We Live In](Dema.md)
+- [The World Explore](Dema.md)
   > - What is Dema?
   > - The storyline we follow
 - [about the band](theband.md)
