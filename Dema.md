@@ -1,15 +1,19 @@
 # The World We Explore 
 
-Disclaimer: There are a few important names mentioned that you should know before reading this part:
-Tyler Joseph, singer, songwriter and at the origin of the Dema story
-Josh Dun, drummer of the band, soft boi
-Clancy, main character of the Dema storyline, played by Tyler in the music videos
-Torchbearer, symbol of hope, member of the Banditos, played by Josh in the music videos
-Nico/Blurryface, one of the bishops of Dema, in charge of Clancy, his insecurity is success.
+## The Characters
+There are a few important names mentioned that you should know before reading this part:
+_Tyler Joseph_, singer, songwriter and at the origin of the Dema story
+_Josh Dun_, drummer of the band, soft boi
+_Clancy_, main character of the Dema storyline, played by Tyler in the music videos
+_Torchbearer_, symbol of hope, member of the Banditos, played by Josh in the music videos
+_Nico/Blurryface_, one of the bishops of Dema, in charge of Tyler, his insecurity is success.
+_Keons_, another bishop in Dema, in charge of Clancy, his insecurity is repetition
 
 
 ## What's Dema?
-people in Dema are lead by bishops, 9 of them to be exact. Their names are __Andre, Lisden, Keons, Nico, Reisdro, Sacarver, Nills, Vetomo and Listo__. They're named after songs from the band, for example, SACARVER comes from the lyrics "She's a carver" (S A CARVER) in the song _Tear In My Heart_  
+people in Dema are lead by bishops, 9 of them to be exact. Their names are __Andre, Lisden, Keons, Nico, Reisdro, Sacarver, Nills, Vetomo and Listo__. They're named after songs from the band, for example, SACARVER comes from the lyrics "She's a carver" (S A CARVER) in the song _Tear In My Heart_ 
+Every bishop represents an insecurity, depending on what your biggest insecurity is, you get assigned a bishop who will watch over you and make sure you follow the rules. 
+Here's a table of the important information regarding the bishops
 
 
 Every inhabitant in Dema is assigned to a bishop who will watch their every move and make sure they follow the rules.
