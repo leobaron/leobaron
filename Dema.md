@@ -2,12 +2,12 @@
 
 ## The Characters
 There are a few important names mentioned that you should know before reading this part:
-_Tyler Joseph_, singer, songwriter and at the origin of the Dema story
-_Josh Dun_, drummer of the band, soft boi
-_Clancy_, main character of the Dema storyline, played by Tyler in the music videos
-_Torchbearer_, symbol of hope, member of the Banditos, played by Josh in the music videos
-_Nico/Blurryface_, one of the bishops of Dema, in charge of Tyler, his insecurity is success.
-_Keons_, another bishop in Dema, in charge of Clancy, his insecurity is repetition
+_Tyler Joseph_, singer, songwriter and at the origin of the Dema story  
+_Josh Dun_, drummer of the band, soft boi  
+_Clancy_, main character of the Dema storyline, played by Tyler in the music videos  
+_Torchbearer_, symbol of hope, member of the Banditos, played by Josh in the music videos  
+_Nico/Blurryface_, one of the bishops of Dema, in charge of Tyler, his insecurity is success.  
+_Keons_, another bishop in Dema, in charge of Clancy, his insecurity is repetition  
 
 
 ## What's Dema?
