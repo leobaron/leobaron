@@ -59,9 +59,10 @@ Outside of the main story set in Dema, we have additional information about the 
 
   ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](Twentyonepilots/Ned.jpg)   
   `This is a picture of a small furry creature with antlers called Ned`  
-
-
-
-
-[About the band](theband.md)  
-[How it started, how it's going](moreabout.md)
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+  
+## [About the band](theband.md)  
+## [How it started, how it's going](moreabout.md)
