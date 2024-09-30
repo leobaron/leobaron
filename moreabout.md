@@ -11,8 +11,6 @@ Here's an example of one of the LOC file that could be unlocked by one of the co
 
 
 ## Recent developments
-In 2024 , the band released an album called _Clancy_ and included an other online treasure hiunt, this time revealing the teaser for an unreleased music video for the song _Paladin Strait_
-
-Tyler Joseph also recorded a video titled [_I AM CLANCY_](https://youtu.be/ozlHHR_eSxc?si=SjV74KavdDdS8XYA) in which he confirms elements of the lore that clikkies had been wondering about since 2015, like who exactly is clancy and what is his role in Dema as well as additional information about Vialism.
-
-During the Clancy tour, letters not from Clancy but from other citizens of Dema are projected on screens, although they have seemingly been ripped by the bishops, we can reassemble the pieces by compiling pictures of the different shows. As the tour is still on the road, we do not have the whole story of these letters yet but we can already tell that their authoe=rs have been inspired by Clancy and are now trying to follow in his footsteps. What will happen to them remains to be discovered
+In 2024 , the band released an album called _Clancy_ and included an other online treasure hunt, this time revealing the teaser for an unreleased music video for the song _Paladin Strait_  
+Tyler Joseph also recorded a video titled [_I AM CLANCY_](https://youtu.be/ozlHHR_eSxc?si=SjV74KavdDdS8XYA) in which he confirms elements of the lore that clikkies had been wondering about since 2015, like who exactly is Clancy and what is his role in Dema as well as additional information about Vialism.  
+During the Clancy tour, letters not from Clancy but from other citizens of Dema are projected on screens, although they have seemingly been ripped by the bishops, we can reassemble the pieces by compiling pictures of the different shows. As the tour is still on the road, we do not have the whole story of these letters yet but we can already tell that their authors have been inspired by Clancy and are now trying to follow in his footsteps. What will happen to them remains to be discovered
