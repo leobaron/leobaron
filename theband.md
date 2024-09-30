@@ -27,5 +27,5 @@ Here are the different logos though the Twenty Øne Pilots eras:
 &nbsp;  
 &nbsp;  
 &nbsp;  
-## [The World Explore](Dema.md)  
+## [The World We Explore](Dema.md)  
 ## [How it started, how it's going](moreabout.md)
