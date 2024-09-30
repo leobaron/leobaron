@@ -16,9 +16,9 @@ Scaled and Icy  2021  | 11| 6
 Clancy   2024   |  13 | 3
 
 # Visuals
-Here are the different logos though the Twenty one piklots eras: 
-Blurryface
-Vessel
-Trench
-Scaled And Icy
-Clancy
+Here are the different logos though the Twenty one pilots eras:  
+![Blurryface](Twentyonepilots/blurrylogo.jpg) Blurryface  
+![Vessel](Twentyonepilots/vessellogo.jpg) Vessel  
+![Trench](Twentyonepilots/trenchlogo.jpg) Trench  
+![Scaled And Icy](Twentyonepilots/sailogo.jpg) Scaled And Icy  
+![Clancy](Twentyonepilots/clancylogo.jpg) Clancy  
