@@ -5,15 +5,15 @@
         body {
             margin: 0;
             padding: 0;
-            height: 100vh; 
+            height: 125; 
             background-image: url('Twentyonepilots/background.jpg'); 
             background-size: cover; 
             background-position: center; 
             background-repeat: no-repeat;
         }
     </style>
-</head>
-
+</head>  
+&nbsp;  
  # The band: 
 Twenty Øne Pilots is a two piece band composed of Tyler Joseph, singer, songwriter and pianist, and Josh Dun, drummer. 
 The name of the band comes from the play _All My Sons_ by Arthur Miller.
