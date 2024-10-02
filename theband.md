@@ -43,3 +43,6 @@ Here are the different logos though the Twenty Øne Pilots eras:
 
 
 <body background="Twentyonepilots/background.jpg">
+body{ background-image: "Twentyonepilots/background.jpg";
+    background-repeat: no-repeat;
+}
