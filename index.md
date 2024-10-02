@@ -14,4 +14,4 @@ Here are a few subjects that can help new clikkies understand the lore:
 - [How it started, how it's going](moreabout.md)  
 
 
-<!-- .slide: data-background-color="grey" -->
+<!-- .slide: data-background-color="red" -->
