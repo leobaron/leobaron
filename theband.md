@@ -42,5 +42,10 @@ Here are the different logos though the Twenty Øne Pilots eras:
 ## [How it started, how it's going](moreabout.md)  
 
 
-<body background="Twentyonepilots/background.jpg">
-<alt="Twentyonepilots/background.jpg" width="2000000"/>
+<body background="Twentyonepilots/background.jpg";
+   background-size: 100%;
+width: 100%;
+height: 100%;
+position: relative;
+min-height: 620px;
+background-repeat: no-repeat;>
