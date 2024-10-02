@@ -4,15 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        /* Applique l'image en arrière-plan sur toute la page */
         body {
             margin: 0;
             padding: 0;
-            height: 100vh; /* La hauteur est de 100% de la vue verticale */
-            background-image: url('Twentyonepilots/background.jpg'); /* Remplace 'ton-image.jpg' par le chemin de ton image */
-            background-size: cover; /* Couvre toute la page sans distorsion */
-            background-position: center; /* Centrage de l'image */
-            background-repeat: no-repeat; /* Empêche la répétition de l'image */
+            height: 100vh; 
+            background-image: url('Twentyonepilots/background.jpg'); 
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat;
         }
     </style>
 </head>
