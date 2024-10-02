@@ -18,10 +18,24 @@ Clancy   2024   |  13 | 3
 # Visuals
 Here are the different logos though the Twenty Øne Pilots eras:  
 
+<p style="float:right"><img src="Twentyonepilots/blurrylogo.jpg" /></p>
+<p>Blurryface</p>
+<div style="clear:both"></div>
+<p style="float:right"><img src="Twentyonepilots/vessellogo.jpg" /></p>
+<p>Vessel</p>
+<div style="clear:both"></div>
+<p style="float:right"><img src="Twentyonepilots/trenchlogo.jpg" /></p>
+<p>Trench</p>
+<div style="clear:both"></div>
+<p style="float:right"><img src="Twentyonepilots/sailogo.jpg" /></p>
+<p>Scaled and Icy</p>
+<div style="clear:both"></div>
+<p style="float:right"><img src="Twentyonepilots/clancylogo.jpg" /></p>
+<p>Clancy</p>
+<div style="clear:both"></div>  
 
 ![Blurryface](Twentyonepilots/blurrylogo.jpg)Blurryface   
 ![Vessel](Twentyonepilots/vessellogo.jpg) Vessel    
-
 ![Trench](Twentyonepilots/trenchlogo.jpg)  Trench   
 ![Scaled And Icy](Twentyonepilots/sailogo.jpg) Scaled And Icy    
 ![Clancy](Twentyonepilots/clancylogo.jpg)    Clancy      
