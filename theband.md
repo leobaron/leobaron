@@ -42,8 +42,16 @@ Here are the different logos though the Twenty Øne Pilots eras:
 ## [How it started, how it's going](moreabout.md)  
 
 
-<body background="Twentyonepilots/background.jpg";
-   background-size: 100%;
+<div class="slide" id="home" data-slide="home" data-stellar-background-ratio="0.5" style="background-position: 0% 0px;">
+  </div>
+
+#home {
+background-image: url('Twentyonepilots/background.jpg');
+background-color: #F3F3F3;
+}
+   .slide {
+background-attachment: fixed;
+background-size: 100%;
 width: 100%;
 height: 100%;
 position: relative;
