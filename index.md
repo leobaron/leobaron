@@ -12,6 +12,3 @@ Here are a few subjects that can help new clikkies understand the lore:
 - [About the band](theband.md)
 &nbsp;  
 - [How it started, how it's going](moreabout.md)  
-
-
-<!-- .slide: data-background-color="red" -->
