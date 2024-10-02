@@ -18,17 +18,6 @@ Clancy   2024   |  13 | 3
 # Visuals
 Here are the different logos though the Twenty Øne Pilots eras:  
 
-<p style="float:right"><img src="Twentyonepilots/blurrylogo.jpg" /></p>
-<p>
-  <p style="float:left"><img src="Twentyonepilots/vessellogo.jpg" /></p>
-<p>
- <br> Blurryface Vessel
-</p>
-<div style="clear:both"></div>
-
-
-
-
 
 ![Blurryface](Twentyonepilots/blurrylogo.jpg)Blurryface   
 ![Vessel](Twentyonepilots/vessellogo.jpg) Vessel    
