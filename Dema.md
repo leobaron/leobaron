@@ -43,7 +43,6 @@ When someone dies in Dema, an event called the Annual Assembly of the Glorified 
 ### Vialism or weilism??
 <p style="float:right"><img src="Twentyonepilots/bourbaki.jpg" /></p>
 <p>
- <br> 
  <br> Theories about the lore have been attributing vialism to the Bourbaki group, a group of French mathematicians using the name of Nicholas Bourbaki, a fake mathematician (the inspiration for Blurryface's name). The founder of the group was Andre Weil, brother of Simone Weil. <br> 
  <br> 
 Simone's death was considered a suicide, she starved herself as a way to alert on the starvation french troups faced in war, this was considered a glorious death. She believed that "overtaking your former self" was the only way to truly live. <br> 
