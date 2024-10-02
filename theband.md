@@ -19,19 +19,19 @@ Clancy   2024   |  13 | 3
 Here are the different logos though the Twenty Øne Pilots eras:  
 
 <p style="float:left"><img src="Twentyonepilots/blurrylogo.jpg" /></p>
-<p>&nbsp; Blurryface</p>
+<p>&nbsp;&nbsp;&nbsp; Blurryface</p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/vessellogo.jpg" /></p>
-<p>&nbsp;Vessel</p>
+<p>&nbsp;&nbsp;&nbsp; Vessel</p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/trenchlogo.jpg" /></p>
-<p>&nbsp;Trench</p>
+<p>&nbsp;&nbsp;&nbsp;Trench</p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/sailogo.jpg" /></p>
-<p>&nbsp;Scaled and Icy</p>
+<p>&nbsp;&nbsp;&nbsp; Scaled and Icy</p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/clancylogo.jpg" /></p>
-<p>&nbsp;Clancy</p>
+<p>&nbsp;&nbsp;&nbsp; Clancy</p>
 <div style="clear:both"></div>  
    
 &nbsp;  
@@ -43,6 +43,3 @@ Here are the different logos though the Twenty Øne Pilots eras:
 
 
 <body background="Twentyonepilots/background.jpg">
-position: relative;
-min-height: 620px;
-background-repeat: no-repeat;>
