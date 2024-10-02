@@ -41,7 +41,8 @@ Here are the different logos though the Twenty Øne Pilots eras:
 &nbsp;  
 &nbsp;  
 ## [The World We Explore](Dema.md)  
-## [How it started, how it's going](moreabout.md)
+## [How it started, how it's going](moreabout.md)  
+
 
 <body background="Twentyonepilots/background.jpg"
   background-repeat:no-repeat;>
