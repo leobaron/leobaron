@@ -42,10 +42,12 @@ When someone dies in Dema, an event called the Annual Assembly of the Glorified 
 &nbsp;
 ### Vialism or weilism??
 <p style="float:right"><img src="Twentyonepilots/bourbaki.jpg" /></p>
-<p>Theories about the lore have been attributing vialism to the Bourbaki group, a group of French mathematicians using the name of Nicholas Bourbaki, a fake mathematician (the inspiration for Blurryface's name). The founder of the group was Andre Weil, brother of Simone Weil. Simone's death was considered a suicide, she starved herself as a way to alert on the starvation french troups faced in war, this was considered a glorious death. She believed that "overtaking your former self" was the only way to truly live.</p>
+<p>Theories about the lore have been attributing vialism to the Bourbaki group, a group of French mathematicians using the name of Nicholas Bourbaki, a fake mathematician (the inspiration for Blurryface's name). The founder of the group was Andre Weil, brother of Simone Weil. <br> 
+Simone's death was considered a suicide, she starved herself as a way to alert on the starvation french troups faced in war, this was considered a glorious death. She believed that "overtaking your former self" was the only way to truly live. <br> 
+Tyler has confirmed in april 2024 that the idea of vialism comes from simone Weil's philosophy.
+</p>
 <div style="clear:both"></div>
  
-Tyler has confirmed in april 2024 that the idea of vialism comes from simone Weil's philosophy.
 
 ~~I am a citizen, I am an escapee, I am an exception, I am Clancy~~
 
