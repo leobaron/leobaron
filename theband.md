@@ -43,3 +43,4 @@ Here are the different logos though the Twenty Øne Pilots eras:
 
 
 <body background="Twentyonepilots/background.jpg">
+<alt="Twentyonepilots/background.jpg" width="2000000"/>
