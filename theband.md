@@ -19,26 +19,26 @@ Clancy   2024   |  13 | 3
 Here are the different logos though the Twenty Øne Pilots eras:  
 
 <p style="float:left"><img src="Twentyonepilots/blurrylogo.jpg" /></p>
-<p><h2>&nbsp;&nbsp;&nbsp; Blurryface</p>
+<p><h2>&nbsp;&nbsp;&nbsp; Blurryface</h2></p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/vessellogo.jpg" /></p>
-<p>&nbsp;&nbsp;&nbsp; Vessel</p>
+<p><h2>&nbsp;&nbsp;&nbsp; Vessel</h2></p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/trenchlogo.jpg" /></p>
-<p>&nbsp;&nbsp;&nbsp;Trench</p>
+<p><h2>&nbsp;&nbsp;&nbsp;Trench</h2></p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/sailogo.jpg" /></p>
-<p>&nbsp;&nbsp;&nbsp; Scaled and Icy</p>
+<p><h2>&nbsp;&nbsp;&nbsp; Scaled and Icy</h2></p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/clancylogo.jpg" /></p>
-<p>&nbsp;&nbsp;&nbsp; Clancy</p>
-<div style="clear:both"></h2></div>  
+<p><h2>&nbsp;&nbsp;&nbsp; Clancy</h2></p>
+<div style="clear:both"></div>  
    
  
 &nbsp;  
 &nbsp;  
 ## [The World We Explore](Dema.md)  
-## [How it started, how it's going](moreabout.md)   
+## [How it started, how it's going](moreabout.md)    
 
 &nbsp;
 <html>
