@@ -19,19 +19,19 @@ Clancy   2024   |  13 | 3
 Here are the different logos though the Twenty Øne Pilots eras:  
 
 <p style="float:left"><img src="Twentyonepilots/blurrylogo.jpg" /></p>
-<p>Blurryface</p>
+<p>&nbsp; Blurryface</p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/vessellogo.jpg" /></p>
-<p>Vessel</p>
+<p>&nbsp;Vessel</p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/trenchlogo.jpg" /></p>
-<p>Trench</p>
+<p>&nbsp;Trench</p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/sailogo.jpg" /></p>
-<p>Scaled and Icy</p>
+<p>&nbsp;Scaled and Icy</p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/clancylogo.jpg" /></p>
-<p>Clancy</p>
+<p>&nbsp;Clancy</p>
 <div style="clear:both"></div>  
    
 &nbsp;  
@@ -42,18 +42,7 @@ Here are the different logos though the Twenty Øne Pilots eras:
 ## [How it started, how it's going](moreabout.md)  
 
 
-<div class="slide" id="home" data-slide="home" data-stellar-background-ratio="0.5" style="background-position: 0% 0px;">
-  </div>
-
-#home {
-background-image: url('Twentyonepilots/background.jpg');
-background-color: #F3F3F3;
-}
-   .slide {
-background-attachment: fixed;
-background-size: 100%;
-width: 100%;
-height: 100%;
+<body background="Twentyonepilots/background.jpg">
 position: relative;
 min-height: 620px;
 background-repeat: no-repeat;>
