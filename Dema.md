@@ -41,9 +41,10 @@ The only religion in Dema is Vialism. It is defined by Clancy as a "hijacked rel
 When someone dies in Dema, an event called the Annual Assembly of the Glorified happens, where bishops build a neon gravestone for the departed and make everyone watch as the dead is "honored".
 &nbsp;
 ### Vialism or weilism??
- ![bourbaki](Twentyonepilots/bourbaki.jpg)     
-Theories about the lore have been attributing vialism to the Bourbaki group, a group of French mathematicians using the name of Nicholas Bourbaki, a fake mathematician (the inspiration for Blurryface's name). The founder of the group was Andre Weil, brother of Simone Weil. Simone's death was considered a suicide, she starved herself as a way to alert on the starvation french troups faced in war, this was considered a glorious death. She believed that "overtaking your former self" was the only way to truly live.
-
+<p style="float:right"><img src="Twentyonepilots/bourbaki.jpg" /></p>
+<p>Theories about the lore have been attributing vialism to the Bourbaki group, a group of French mathematicians using the name of Nicholas Bourbaki, a fake mathematician (the inspiration for Blurryface's name). The founder of the group was Andre Weil, brother of Simone Weil. Simone's death was considered a suicide, she starved herself as a way to alert on the starvation french troups faced in war, this was considered a glorious death. She believed that "overtaking your former self" was the only way to truly live.</p>
+<div style="clear:both"></div>
+ 
 Tyler has confirmed in april 2024 that the idea of vialism comes from simone Weil's philosophy.
 
 ~~I am a citizen, I am an escapee, I am an exception, I am Clancy~~
@@ -66,13 +67,3 @@ Outside of the main story set in Dema, we have additional information about the 
   
 ## [About the band](theband.md)  
 ## [How it started, how it's going](moreabout.md)
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
-
-<p style="float:right"><img src="Twentyonepilots/Ned.jpg" /></p>
-<p>blablablablablabla</p>
-<div style="clear:both"></div>
