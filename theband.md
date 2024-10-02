@@ -28,10 +28,10 @@ Here are the different logos though the Twenty Øne Pilots eras:
 <p><h2>&nbsp;&nbsp;&nbsp;Trench</h2></p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/sailogo.jpg" /></p>
-<p style="font-size: 20px;"><h2>&nbsp;&nbsp;&nbsp; Scaled and Icy</h2></p>
+<p style="font-size: 20"><h2>&nbsp;&nbsp;&nbsp; Scaled and Icy</h2></p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/clancylogo.jpg" /></p>
-<p style="color: red;"><h2>&nbsp;&nbsp;&nbsp; Clancy</h2></p>
+<p style="color: red"><h2>&nbsp;&nbsp;&nbsp; Clancy</h2></p>
 <div style="clear:both"></div>  
 
 &nbsp;  
