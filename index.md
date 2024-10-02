@@ -11,11 +11,9 @@ Here are a few subjects that can help new clikkies understand the lore:
 - [How it started, how it's going](moreabout.md)
 
 
-
-
-
-<div class="reveal">
+...
+    <div class="reveal">
       <div class="slides">
-        <section data-markdown="twentyonepilots.md" data-background-image="Twentyonepilots/clancylogo.jpg"></section>
+        <section data-markdown="twentyonepilots/index.md" data-separator="^---$" data-separator-vertical="^--$" data-background-image="Twentyonepilots/clancylogo.jpg"></section>
       </div>
-    </div>
+...
