@@ -16,6 +16,6 @@ Here are a few subjects that can help new clikkies understand the lore:
 
 <div class="reveal">
       <div class="slides">
-        <section data-markdown="twentyonepilots.md" data-background-image="http://example.com/image.png"></section>
+        <section data-markdown="twentyonepilots.md" data-background-image="Twentyonepilots/clancylogo.jpg"></section>
       </div>
     </div>
