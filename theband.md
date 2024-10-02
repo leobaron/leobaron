@@ -1,4 +1,23 @@
-# The band: 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Applique l'image en arrière-plan sur toute la page */
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh; /* La hauteur est de 100% de la vue verticale */
+            background-image: url('Twentyonepilots/background.jpg'); /* Remplace 'ton-image.jpg' par le chemin de ton image */
+            background-size: cover; /* Couvre toute la page sans distorsion */
+            background-position: center; /* Centrage de l'image */
+            background-repeat: no-repeat; /* Empêche la répétition de l'image */
+        }
+    </style>
+</head>
+<body>
+ # The band: 
 Twenty Øne Pilots is a two piece band composed of Tyler Joseph, singer, songwriter and pianist, and Josh Dun, drummer. 
 The name of the band comes from the play _All My Sons_ by Arthur Miller.
 Both members come from the town of Colombus, OH.  
@@ -39,10 +58,6 @@ Here are the different logos though the Twenty Øne Pilots eras:
 &nbsp;  
 &nbsp;  
 ## [The World We Explore](Dema.md)  
-## [How it started, how it's going](moreabout.md)  
-
-
-<body{ background-image: "Twentyonepilots/background.jpg" ;
-    background-repeat: no-repeat;
-}
->
+## [How it started, how it's going](moreabout.md)   
+</body>
+</html>
