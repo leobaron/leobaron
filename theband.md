@@ -1,20 +1,4 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            height: 125; 
-            background-image: url('Twentyonepilots/background.jpg'); 
-            background-size: cover; 
-            background-position: center; 
-            background-repeat: no-repeat;
-        }
-    </style>
-</head>  
-&nbsp;  
- # The band: 
+# The band: 
 Twenty Øne Pilots is a two piece band composed of Tyler Joseph, singer, songwriter and pianist, and Josh Dun, drummer. 
 The name of the band comes from the play _All My Sons_ by Arthur Miller.
 Both members come from the town of Colombus, OH.  
@@ -35,7 +19,7 @@ Clancy   2024   |  13 | 3
 Here are the different logos though the Twenty Øne Pilots eras:  
 
 <p style="float:left"><img src="Twentyonepilots/blurrylogo.jpg" /></p>
-<p>&nbsp;&nbsp;&nbsp; Blurryface</p>
+<p><h1>&nbsp;&nbsp;&nbsp; Blurryface<h1></p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/vessellogo.jpg" /></p>
 <p>&nbsp;&nbsp;&nbsp; Vessel</p>
@@ -50,9 +34,25 @@ Here are the different logos though the Twenty Øne Pilots eras:
 <p>&nbsp;&nbsp;&nbsp; Clancy</p>
 <div style="clear:both"></div>  
    
-&nbsp;  
-&nbsp;  
+ 
 &nbsp;  
 &nbsp;  
 ## [The World We Explore](Dema.md)  
 ## [How it started, how it's going](moreabout.md)   
+
+&nbsp;  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 125; 
+            background-image: url('Twentyonepilots/background.jpg'); 
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat;
+        }
+    </style>
+</head> 
