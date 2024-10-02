@@ -36,30 +36,29 @@ Nico | he goes by Nico (_Morph_)| Success
 Nills | beaten down I'll slip away (_Goner_) | Defeat
 
 
-## What's vialism?
+## What's vialism?  
 The only religion in Dema is Vialism. It is defined by Clancy as a "hijacked religion". It teaches that self destruction (i.e. suicide) is the only way to paradise. Dead people then become available "vessels", bodies to be possessed by the bishops.
 When someone dies in Dema, an event called the Annual Assembly of the Glorified happens, where bishops build a neon gravestone for the departed and make everyone watch as the dead is "honored".
 &nbsp;
 ### Vialism or weilism??
-Theories about the lore have been attributing vialism to the Bourbaki group, a group of French mathematicians using the name of Nicholas Bourbaki, a fake mathematician (the inspiration for Blurryface's name). The founder of the group was Andre Weil, brother of Simone Weil. 
-It has been recently confirmed (april 2024) that the idea of vialism has been highly inspired by Simone Weil and the idea of Weilism, in whch the idea of "overtaking your former self" is essential.
+ ![bourbaki](Twentyonepilots/bourbaki.jpg)     
+Theories about the lore have been attributing vialism to the Bourbaki group, a group of French mathematicians using the name of Nicholas Bourbaki, a fake mathematician (the inspiration for Blurryface's name). The founder of the group was Andre Weil, brother of Simone Weil. Simone's death was considered a suicide, she starved herself as a way to alert on the starvation french troups faced in war, this was considered a glorious death. She believed that "overtaking your former self" was the only way to truly live.
 
+Tyler has confirmed in april 2024 that the idea of vialism comes from simone Weil's philosophy.
 
 ~~I am a citizen, I am an escapee, I am an exception, I am Clancy~~
 
-![trench](Twentyonepilots/Trenchmap.jpg)
-
-
 
 ## Additional information
+
+![trench](Twentyonepilots/Trenchmap.jpg)  
 Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. Throughout the albums, we focus more on a few locations: 
 - Dema
 - Voldsoy, an island East of Dema inhabited by Neds. Ned is the representation of Tyler's Creativity and his Hope. His antlers are the only thing that makes seizing possible.
 - the Pladin strait, a body of water separating Dema from Voldsoy. As much as it provides protection for Clancy since the bishops do not cross the strait, it also separates him from the Banditos and makes it harder to fight Dema.
 
 
-  ![this is a Ned, he's cute, basically a white furry creature with antlers, he's about 45cm tall](Twentyonepilots/Ned.jpg)   
-  `This is a picture of a small furry creature with antlers called Ned`  
+<img src="Twentyonepilots/Ned.jpg" alt="Twentyonepilots/Ned.jpg" width="200"/>  `This is a picture of a small furry creature with antlers called Ned`  
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -67,3 +66,13 @@ Outside of the main story set in Dema, we have additional information about the 
   
 ## [About the band](theband.md)  
 ## [How it started, how it's going](moreabout.md)
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+
+<p style="float:right"><img src="Twentyonepilots/Ned.jpg" /></p>
+<p>blablablablablabla</p>
+<div style="clear:both"></div>
