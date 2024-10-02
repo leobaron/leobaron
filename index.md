@@ -4,16 +4,11 @@ This page will be giving information about the band Twenty Øne Pilots and the l
 
 --------------------------------------------------------------------------------
 Here are a few subjects that can help new clikkies understand the lore:
+&nbsp;
 - [The World We Explore](Dema.md)
   > - What is Dema?
   > - The storyline we follow
+&nbsp;
 - [About the band](theband.md)
-- [How it started, how it's going](moreabout.md)
-
-
-...
-    <div class="reveal">
-      <div class="slides">
-        <section data-markdown="twentyonepilots/index.md" data-separator="^---$" data-separator-vertical="^--$" data-background-image="Twentyonepilots/clancylogo.jpg"></section>
-      </div>
-...
+&nbsp;
+- [How it started, how it's going](moreabout.md)  
