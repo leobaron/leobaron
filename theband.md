@@ -31,9 +31,10 @@ Here are the different logos though the Twenty Øne Pilots eras:
 <p style="font-size: 20"><h2>&nbsp;&nbsp;&nbsp; Scaled and Icy</h2></p>
 <div style="clear:both"></div>
 <p style="float:left"><img src="Twentyonepilots/clancylogo.jpg" /></p>
-<p style="color: red"><h2>&nbsp;&nbsp;&nbsp; Clancy</h2></p>
+<span style="color: red"><h2>&nbsp;&nbsp;&nbsp; Clancy</h2></span>
 <div style="clear:both"></div>  
 
+<span style="color:red;">clancy > </span>
 &nbsp;  
 &nbsp;  
 ## [The World We Explore](Dema.md)  
