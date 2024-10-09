@@ -34,26 +34,6 @@ Here are the different logos though the Twenty Øne Pilots eras:
 <h2><span style="color:white"> &nbsp; &nbsp; Clancy </span></h2>
 <div style="clear:both"></div>  
 
-
-
-
-
-<p style="float:left"><img src="Twentyonepilots/blurrylogo.jpg" 
-<h2>&nbsp; &nbsp; Blurryface</h2>
-<div style="clear:both"></div>
- style="float:left"><img src="Twentyonepilots/vessellogo.jpg"
-<h2>&nbsp; &nbsp; Vessel</h2>
-<div style="clear:both"></div>
-style="float:left"><img src="Twentyonepilots/trenchlogo.jpg" 
-<h2>&nbsp; &nbsp; Trench</h2>
-<div style="clear:both"></div>
- style="float:left"><img src="Twentyonepilots/sailogo.jpg" 
-<h2> &nbsp; &nbsp; Scaled and Icy</h2></p>
-<div style="clear:both"></div>
-style="float:left"><img src="Twentyonepilots/clancylogo.jpg" </p>
-<h2><span style="color:white"> &nbsp; &nbsp; Clancy </span></h2>
-<div style="clear:both"></div>  
-
 &nbsp;  
 &nbsp;  
 ## [The World We Explore](Dema.md)  
