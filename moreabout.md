@@ -20,21 +20,3 @@ During the Clancy tour, letters not from Clancy but from other citizens of Dema 
 &nbsp;  
 ## [The World We Explore](Dema.md)  
 ## [About the band](theband.md)
-&nbsp;
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            height: 125; 
-            background-image: url('Twentyonepilots/background.jpg'); 
-            background-size: cover; 
-            background-position: center; 
-            background-repeat: no-repeat;
-        }
-    </style>
-</head> 
-</html>
