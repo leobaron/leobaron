@@ -54,8 +54,7 @@ Tyler has confirmed in april 2024 that the idea of vialism comes from simone Wei
 
 ~~I am a citizen, I am an escapee, I am an exception, I am Clancy~~
 
-<span style="color:red;">
-## Additional information
+<span style="color:red;">## Additional information
 
 ![trench](Twentyonepilots/Trenchmap.jpg)  
 Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. Throughout the albums, we focus more on a few locations: 
@@ -68,8 +67,7 @@ Outside of the main story set in Dema, we have additional information about the 
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
-  > </span>
+&nbsp; > </span>
 ## [About the band](theband.md)  
 ## [How it started, how it's going](moreabout.md)
 
